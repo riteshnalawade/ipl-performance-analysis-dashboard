@@ -30,7 +30,7 @@ The goal of this project was to transform raw cricket statistics into meaningful
 - Most Centuries & Half Centuries
 - Best Economy Rate Bowlers
 
-  ![Overall Dashboard](overall-dashboard.png)
+![Overall Dashboard](overall-dashboard.png)
 
 ### 2️⃣ Batters Performance Analysis
 - Highest Batting Average
@@ -39,12 +39,16 @@ The goal of this project was to transform raw cricket statistics into meaningful
 - Boundary Analysis (Fours & Sixes)
 - Season-wise comparison
 
+![Batters Analysis](batters-analysis.png)
+
 ### 3️⃣ Bowlers Performance Analysis
 - Most Wickets
 - Best Bowling Average
 - Best Economy Rate
 - Strike Rate Analysis
 - 4W & 5W Hauls comparison
+
+![Bowlers Analysis](bowlers-analysis.png)
 
 ---
 
