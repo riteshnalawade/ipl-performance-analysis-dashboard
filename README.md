@@ -72,14 +72,3 @@ The goal of this project was to transform raw cricket statistics into meaningful
 ## 📌 Author
 Ritesh Nalawade  
 Aspiring Data Analyst
-
-## 📊 Dashboard Preview
-
-### Overall Performance
-![Overall Dashboard](overall-dashboard.png)
-
-### Batters Analysis
-![Batters Analysis](batters-analysis.png)
-
-### Bowlers Analysis
-![Bowlers Analysis](bowlers-analysis.png)
