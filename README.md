@@ -30,7 +30,7 @@ The goal of this project was to transform raw cricket statistics into meaningful
 - Most Centuries & Half Centuries
 - Best Economy Rate Bowlers
 
-![Overall Dashboard]((dashboard_images/overview_dashboard.png)
+![Overall Dashboard](dashboard_images/overview_dashboard.png)
 
 ### 2️⃣ Batters Performance Analysis
 - Highest Batting Average
