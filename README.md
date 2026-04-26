@@ -19,6 +19,13 @@ The goal of this project was to transform raw cricket statistics into meaningful
   - Fielding Statistics (Catches, Stumpings)
   - Season-wise performance tracking
 
+## 📄 Project Files
+
+📥 **Download Files:**
+
+- 📊 [Download Excel Dataset](ipl-performance-analysis-dashboard.xlsx)  
+- 📑 [View Full Report (PDF)](IPL_Performance_Analysis_Report.pdf)
+
 ---
 
 ## 📈 Dashboard Features
