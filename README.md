@@ -39,7 +39,7 @@ The goal of this project was to transform raw cricket statistics into meaningful
 - Boundary Analysis (Fours & Sixes)
 - Season-wise comparison
 
-![Batters Analysis](batters-analysis.png)
+![Batters Analysis](dashboard_images/batters-analysis.png)
 
 ### 3️⃣ Bowlers Performance Analysis
 - Most Wickets
@@ -48,7 +48,7 @@ The goal of this project was to transform raw cricket statistics into meaningful
 - Strike Rate Analysis
 - 4W & 5W Hauls comparison
 
-![Bowlers Analysis](bowlers-analysis.png)
+![Bowlers Analysis](dashboard_images/bowlers-analysis.png)
 
 ---
 
